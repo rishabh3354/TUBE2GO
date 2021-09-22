@@ -30,9 +30,7 @@ from helper import FREQUENCY_MAPPER
 from settings import YouTubeSettings, UrlDialog
 
 PRODUCT_NAME = "TUBE2GO"
-# THEME_PATH = '/snap/tube2go/current/'
-
-THEME_PATH = ""
+THEME_PATH = '/snap/tube2go/current/'
 
 PLAYLIST_SIZE_CACHE = {}
 HOME_CACHE = {}
