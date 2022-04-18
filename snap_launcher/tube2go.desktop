@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+GenericName=tube2go
+Name=TUBE2GO
+Type=Application
+Icon=tube2go.png
+Keywords=youtube downloader;video downloader;music downloader;playlist downloader;full HD downloader;audio downloader; youtube; youtube music;
+Exec=tube2go %F
+Categories=Utility;Qt;
+Terminal=false
+Name[en_US]=TUBE2GO
