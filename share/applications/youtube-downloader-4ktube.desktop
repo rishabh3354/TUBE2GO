@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=TUBE2GO
+StartupWMClass=TUBE2GO
+Comment=Tube2go for Desktop
+GenericName=Tube2go for Linux
+Exec=tube2go.sh %u
+Icon=com.warlordsoftwares.tube2go
+Terminal=false
+Type=Application
+StartupNotify=true
+Keywords=youtube downloader;video downloader;music downloader;playlist downloader;full HD downloader;audio downloader; youtube; youtube music;
+Categories=Utility;Qt;
