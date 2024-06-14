@@ -5,7 +5,7 @@
   <project_license>LicenseRef-proprietary=https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/license/LICENSE</project_license>
   <developer_name>Warlord Softwares</developer_name>
   <name>Video Downloader Tube2go</name>
-  <summary>Download videos from many websites like YouTube, Instagram, Facebook, Twitter and many others</summary>
+  <summary>Download videos from many websites like YouTube, Instagram, TikTok, Facebook, Twitter and many others</summary>
   <description>
     <p>ABOUT APPLICATION :</p>
     <p>Download videos, music and playlists from websites with an easy-to-use interface.</p>
@@ -40,6 +40,7 @@
         <keyword>Leawo</keyword>
         <keyword>iTubeGo</keyword>
         <keyword>4K Video Downloader</keyword>
+        <keyword>Media Downloader</keyword>
         <keyword>VideoProc</keyword>
         <keyword>Y2mate</keyword>
         <keyword>SaveFrom</keyword>
@@ -82,9 +83,9 @@
   <launchable type="desktop-id">com.warlordsoftwares.tube2go.desktop</launchable>
    <content_rating type="oars-1.1" />
     <releases>
-        <release version="2024.6.7" date="2024-06-07" />
-        <release version="2024.5.3" date="2024-04-26" />
-        <release version="2024.3.12" date="2024-03-12" />
-        <release version="2024.2.20" date="2024-02-20" />
+  <release version="2024.6.7" date="2024-6-7" />
+  <release version="2024.5.3" date="2024-04-26" />
+  <release version="2024.3.12" date="2024-03-12" />
+  <release version="2024.2.20" date="2024-02-20" />
   </releases>
 </component>
