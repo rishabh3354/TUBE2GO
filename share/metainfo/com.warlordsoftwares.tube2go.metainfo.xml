@@ -1,99 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <component type="desktop">
-  <id>com.warlordsoftwares.tube2go</id>
-  <metadata_license>CC0-1.0</metadata_license>
-  <project_license>LicenseRef-proprietary=https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/license/LICENSE</project_license>
-  <developer_name>Warlord Softwares</developer_name>
-  <name>Video Downloader Tube2go</name>
-  <summary>Download videos from many websites like YouTube, Instagram, TikTok, Facebook, Twitter and many others</summary>
-  <description>
-    <p>ABOUT APPLICATION :</p>
-    <p>Download videos, music and playlists from websites with an easy-to-use interface.</p>
-    <p>FEATURES :</p>
-    <ul>
-        <li>High-Quality Downloads: Enjoy crystal-clear video resolutions, including HD and SD.</li>
-        <li>Versatile Audio Extraction: Extract audio from videos in multiple formats.</li>
-        <li>Subtitle Support: Download subtitles along with your videos for an enhanced viewing experience.</li>
-        <li>Blazing-Fast Download Speeds: Experience lightning-fast download speeds with parallel download support.</li>
-        <li>Seamless Conversion to MP3: Convert your favorite videos to MP3 effortlessly.</li>
-        <li>Single Video or Playlist Downloads: Whether you need to download a single video or an entire playlist with just a few clicks.</li>
-    </ul>
-  </description>
-  <keywords>
-        <keyword translate="no">TUBE2GO</keyword>
-        <keyword>video downloader</keyword>
-        <keyword>audio downloader</keyword>
-        <keyword>music downloader</keyword>
-        <keyword>playlist downloader</keyword>
-        <keyword>YouTube downloader</keyword>
-        <keyword>subtitle downloader</keyword>
-        <keyword>SnapDownloader</keyword>
-        <keyword>By Click Downloader</keyword>
-        <keyword>VideoHunter</keyword>
-        <keyword>Youtube to mp3</keyword>
-        <keyword>snaptube</keyword>
-        <keyword>youtube dl</keyword>
-        <keyword>video downloader</keyword>
-        <keyword>VideoSolo</keyword>
-        <keyword>Inovideo</keyword>
-        <keyword>MP3 Studio</keyword>
-        <keyword>Leawo</keyword>
-        <keyword>iTubeGo</keyword>
-        <keyword>4K Video Downloader</keyword>
-        <keyword>Media Downloader</keyword>
-        <keyword>VideoProc</keyword>
-        <keyword>Y2mate</keyword>
-        <keyword>SaveFrom</keyword>
-        <keyword>Youtube Download</keyword>
-        <keyword>SaveMedia</keyword>
-        <keyword>Addoncrop</keyword>
-        <keyword>YouTube Video Downloader</keyword>
-        <keyword>Facebook downloader</keyword>
-        <keyword>Instagram downloader</keyword>
-        <keyword>Tiktok downloader</keyword>
-        <keyword>Youtube shots downloader</keyword>
-        <keyword>Rumble video downloader</keyword>
-        <keyword>All file downloader</keyword>
-        <keyword>Snapchat downloader</keyword>
-        <keyword>linkedin video downloader</keyword>
-        <keyword>SoundCloud Downloader</keyword>
+	<id>com.warlordsoftwares.tube2go</id>
+	<metadata_license>CC0-1.0</metadata_license>
+	<project_license>LicenseRef-proprietary=https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/license/LICENSE</project_license>
+	<developer_name>Warlord Softwares</developer_name>
+	<name>Video Downloader Tube2go</name>
+	<summary>Download HD videos from YouTube, Instagram, TikTok, Facebook, Twitter, and more with Tube2go. Enjoy fast and easy downloads from a wide range of websites.</summary>
+	<description>
+		<p>
+			<strong>ABOUT TUBE2GO :</strong>
+		</p>
+		<p>Download videos, music and playlists from websites with an easy-to-use interface.</p>
+		<p>
+			<strong>FEATURES :</strong>
+		</p>
+		<ul>
+			<li>High-Quality Downloads: Enjoy crystal-clear video resolutions, including HD and UHD.</li>
+			<li>Versatile Audio Extraction: Extract audio from videos in multiple formats.</li>
+			<li>Subtitle Support: Download subtitles along with your videos for an enhanced viewing experience.</li>
+			<li>Blazing-Fast Download Speeds: Experience lightning-fast download speeds with parallel download support.</li>
+			<li>Seamless Conversion to MP3: Convert your favorite videos to MP3 effortlessly.</li>
+			<li>Single Video or Playlist Downloads: Whether you need to download a single video or an entire playlist with just a few clicks.</li>
+			<li>User-Friendly Interface: Navigate with ease using our intuitive and clean UI designed for a seamless user experience.</li>
+		</ul>
+		<p>
+			<strong>LANGUAGE SUPPORT :</strong>
+		</p>
+		<ul>
+			<li>4KTUBE is available in 35+ languages, including German, French, Spanish, Italian and more.</li>
+		</ul>
+		<p>
+			<strong>NEW FEATURES :</strong>
+		</p>
+		<ul>
+			<li>Supports YouTube Subtitles and CC Download.</li>
+			<li>Batch Download Support For Multiple Videos In one Click.</li>
+		</ul>
+	</description>
+	<keywords>
+		<keyword translate="no">TUBE2GO</keyword>
+		<keyword>video downloader</keyword>
+		<keyword>audio downloader</keyword>
+		<keyword>music downloader</keyword>
+		<keyword>playlist downloader</keyword>
+		<keyword>YouTube downloader</keyword>
+		<keyword>subtitle downloader</keyword>
+		<keyword>SnapDownloader</keyword>
+		<keyword>By Click Downloader</keyword>
+		<keyword>VideoHunter</keyword>
+		<keyword>Youtube to mp3</keyword>
+		<keyword>snaptube</keyword>
+		<keyword>youtube dl</keyword>
+		<keyword>video downloader</keyword>
+		<keyword>VideoSolo</keyword>
+		<keyword>Inovideo</keyword>
+		<keyword>MP3 Studio</keyword>
+		<keyword>Leawo</keyword>
+		<keyword>iTubeGo</keyword>
+		<keyword>4K Video Downloader</keyword>
+		<keyword>Media Downloader</keyword>
+		<keyword>VideoProc</keyword>
+		<keyword>Y2mate</keyword>
+		<keyword>SaveFrom</keyword>
+		<keyword>Youtube Download</keyword>
+		<keyword>SaveMedia</keyword>
+		<keyword>Addoncrop</keyword>
+		<keyword>YouTube Video Downloader</keyword>
+		<keyword>Facebook downloader</keyword>
+		<keyword>Instagram downloader</keyword>
+		<keyword>Tiktok downloader</keyword>
+		<keyword>Youtube shots downloader</keyword>
+		<keyword>Rumble video downloader</keyword>
+		<keyword>All file downloader</keyword>
+		<keyword>Snapchat downloader</keyword>
+		<keyword>linkedin video downloader</keyword>
+		<keyword>SoundCloud Downloader</keyword>
+		<keyword>YouTube to MP3</keyword>
+		<keyword>Audio downloader</keyword>
+		<keyword>Online video downloader</keyword>
+		<keyword>Batch video downloader</keyword>
+		<keyword>Free YouTube downloader</keyword>
+		<keyword>Playlist downloader</keyword>
+		<keyword>Download YouTube videos</keyword>
+		<keyword>Music downloader</keyword>
+		<keyword>4K Video Downloader</keyword>
+		<keyword>Video downloader for YouTube</keyword>
+		<keyword>Music downloader</keyword>
+		<keyword>Media Downloader</keyword>
 	</keywords>
-  <screenshots>
-    <screenshot type="default">
-      <image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_1.jpg</image>
-    </screenshot>
-    <screenshot>
-      <image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_2.jpg</image>
-    </screenshot>
-    <screenshot>
-      <image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_3.jpg</image>
-    </screenshot>
-    <screenshot>
-      <image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_4.jpg</image>
-    </screenshot>
-    <screenshot>
-      <image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_5.jpg</image>
-    </screenshot>
-  </screenshots>
-  <url type="homepage">https://github.com/rishabh3354/TUBE2GO</url>
-  <url type="bugtracker">https://github.com/rishabh3354/TUBE2GO/issues</url>
-  <url type="contact">https://warlordsoftwares.com/contact-us/</url>
-  <url type="donation">https://www.paypal.me/rishabh3354/10</url>
-  <update_contact>contact@warlordsoftwares.com</update_contact>
-  <launchable type="desktop-id">com.warlordsoftwares.tube2go.desktop</launchable>
-   <content_rating type="oars-1.1" />
-    <releases>
-        <release version="2024.9.1" date="2024-9-3">
-            <description>
-                <p>Now supports 35+ Country Languages</p>
-            </description>
-        </release>
-  <release version="2024.7.26" date="2024-07-26" />
-  <release version="2024.7.11" date="2024-7-11" />
-  <release version="2024.7.5" date="2024-7-5" />
-  <release version="2024.6.7" date="2024-6-7" />
-  <release version="2024.5.3" date="2024-04-26" />
-  <release version="2024.3.12" date="2024-03-12" />
-  <release version="2024.2.20" date="2024-02-20" />
-  </releases>
+	<category>AudioVideo</category>
+	<category>Network</category>
+	<screenshots>
+		<screenshot type="default">
+			<image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_1.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_2.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_3.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_4.jpg</image>
+		</screenshot>
+		<screenshot>
+			<image>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_5.jpg</image>
+		</screenshot>
+	</screenshots>
+	<url type="official-website">https://warlordsoftwares.com/trending-apps/y2mate-pro-best-youtube-video-downloader-linux/</url>
+	<url type="homepage">https://github.com/rishabh3354/TUBE2GO</url>
+	<url type="bugtracker">https://github.com/rishabh3354/TUBE2GO/issues</url>
+	<url type="contact">https://warlordsoftwares.com/contact-us/</url>
+	<url type="donation">https://www.paypal.me/rishabh3354/10</url>
+	<icon>https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/icons/icon.png</icon>
+	<update_contact>contact@warlordsoftwares.com</update_contact>
+	<launchable type="desktop-id">com.warlordsoftwares.tube2go.desktop</launchable>
+	<content_rating type="oars-1.1">
+		<content_rating_system>OARS</content_rating_system>
+		<content_rating_component id="violence" rated="none" />
+		<content_rating_component id="sex" rated="none" />
+		<content_rating_component id="drugs" rated="none" />
+		<content_rating_component id="language" rated="none" />
+		<content_rating_component id="discrimination" rated="none" />
+	</content_rating>
+	<releases>
+		<release version="2024.9.10" date="2024-9-10">
+			<description>
+				<p>Fixed: Combo-box issue in settings for smoother navigation.</p>
+				<p>Resolved: Video title display issue in MPV streaming player.</p>
+				<p>Now available in 35+ languages for global accessibility.</p>
+			</description>
+		</release>
+		<release version="2024.9.1" date="2024-9-3">
+			<description>
+				<p>Fixed: Combo-box issue in settings for smoother navigation.</p>
+				<p>Resolved: Video title display issue in MPV streaming player.</p>
+				<p>Now available in 35+ languages for global accessibility.</p>
+			</description>
+		</release>
+		<release version="2024.7.26" date="2024-07-26" />
+		<release version="2024.7.11" date="2024-7-11" />
+		<release version="2024.7.5" date="2024-7-5" />
+		<release version="2024.6.7" date="2024-6-7" />
+		<release version="2024.5.3" date="2024-04-26" />
+		<release version="2024.3.12" date="2024-03-12" />
+		<release version="2024.2.20" date="2024-02-20" />
+	</releases>
 </component>
