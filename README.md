@@ -7,6 +7,7 @@ TUBE2GO is the ultimate **YouTube downloader** for downloading videos, playlists
 - Download **entire YouTube playlists** in one go.  
 - Download YouTube audio to **MP3 or other audio formats** effortlessly.  
 - Download videos from popular platforms like **Facebook**, **Instagram**, **TikTok**, **Rumble**, **Twitter**, and more.  
+- **YouTube Multi-Language Audio Support :** Download videos with multiple dubbed audio tracks.
 - Support for **batch downloading** multiple videos at once.  
 - **Stream YouTube videos** without ads directly from the app.  
 - Download YouTube **subtitles** and **closed captions (CC)**.  
