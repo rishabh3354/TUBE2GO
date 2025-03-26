@@ -160,6 +160,14 @@
 	<launchable type="desktop-id">com.warlordsoftwares.tube2go.desktop</launchable>
 	<content_rating type="oars-1.1" />
 	<releases>
+		<release version="2025.3.26" date="2025-3-26">
+			<description>
+					<p>Added YouTube Multi-Language Audio Support.</p>
+					<p>Added new restore account button in account section.</p>
+					<p>Added support for downloading from new platforms like twitter, twitch, vimeo etc..</p>
+					<p>YouTube video download size fix.</p>
+			</description>
+		</release>
 		<release version="2025.3.25" date="2025-3-25">
 			<description>
 					<p>Added YouTube Multi-Language Audio Support.</p>
