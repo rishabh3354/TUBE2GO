@@ -17,6 +17,7 @@
 		<ul>
 			<li>High-Quality Downloads: Enjoy crystal-clear video resolutions, including HD and UHD.</li>
 			<li>Versatile Audio Extraction: Extract audio from videos in multiple formats.</li>
+			<li>Sign-in-required videos: Now you can download sign-in-required videos from YouTube by authenticating your account.</li>
 			<li>Subtitle Support: Download subtitles along with your videos for an enhanced viewing experience.</li>
 			<li>Blazing-Fast Download Speeds: Experience lightning-fast download speeds with parallel download support.</li>
 			<li>Seamless Conversion to MP3: Convert your favorite videos to MP3 effortlessly.</li>
@@ -35,6 +36,7 @@
 		<ul>
 			<li>Supports YouTube Subtitles and CC Download.</li>
 			<li>Batch Download Support For Multiple Videos In one Click.</li>
+		    <li>Easily Authenticate YouTube account for sign-in-required videos</li>
 		</ul>
 	</description>
 	<keywords>
@@ -160,6 +162,13 @@
 	<launchable type="desktop-id">com.warlordsoftwares.tube2go.desktop</launchable>
 	<content_rating type="oars-1.1" />
 	<releases>
+		<release version="2025.6.9" date="2025-6-9">
+			<description>
+				<p>New Feature: Now you can download sign-in-required videos from YouTube by authenticating your account.</p>
+				<p>Added inbuilt webengine web-browser in the app</p>
+				<p>Bug fixes and improvements</p>
+			</description>
+		</release>
 		<release version="2025.5.23" date="2025-5-23">
 			<description>
 				<p>Fix: Download only 720p YouTube videos bug fixed</p>

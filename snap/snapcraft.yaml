@@ -1,6 +1,6 @@
 name: tube2go
 base: core22
-version: '2025.5.23'
+version: '2025.6.9'
 summary: Download videos or playlist or music audio from youtube.com in full HD formats
 description: TUBE2GO is a powerful GUI application for linux for downloading youtube videos, playlist and music audio in full UHD+ resolutions and supports MP4, WEBM and MP3 formats.
 grade: stable
@@ -12,7 +12,7 @@ architectures:
   - build-on: [amd64]
 
 environment:
-  SNAP_DESKTOP_RUNTIME: $SNAP/pyqt5-runtime-core22
+  SNAP_DESKTOP_RUNTIME: $SNAP/content-snap-core22
 
 apps:
   tube2go:
@@ -52,10 +52,10 @@ plugs:
     interface: content
     target: $SNAP/data-dir/sounds
     default-provider: gtk-common-themes
-  pyqt5-runtime-core22:
+  content-snap-core22:
     interface: content
-    target: $SNAP/pyqt5-runtime-core22
-    default-provider: pyqt5-runtime-core22
+    target: $SNAP/content-snap-core22
+    default-provider: content-snap-core22
 
 
 parts:
@@ -67,3 +67,12 @@ parts:
       sed -i 's|Icon=.*|Icon=${SNAP}/meta/gui/icon.png|g' ${SNAPCRAFT_PART_SRC}/tube2go.desktop
       mkdir -p ${SNAPCRAFT_PART_INSTALL}/usr/share/applications/
       cp -rf ${SNAPCRAFT_PART_SRC}/tube2go.desktop ${SNAPCRAFT_PART_INSTALL}/usr/share/applications/tube2go.desktop
+
+  tube2go-binary:
+    plugin: dump
+    source: https://warlordsoftwares.com/static/app_builds/snap/TUBE2GO.tar.gz
+    source-type: tar
+    override-build: |
+      mkdir -p ${SNAPCRAFT_PART_INSTALL}/bin
+      cp TUBE2GO ${SNAPCRAFT_PART_INSTALL}/bin/tube2go
+      chmod +x ${SNAPCRAFT_PART_INSTALL}/bin/tube2go
