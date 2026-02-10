@@ -86,3 +86,4 @@ parts:
       cp TUBE2GO ${SNAPCRAFT_PART_INSTALL}/bin/tube2go
       chmod +x ${SNAPCRAFT_PART_INSTALL}/bin/tube2go
       
+
