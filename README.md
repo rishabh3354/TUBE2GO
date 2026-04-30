@@ -45,15 +45,15 @@ and run
 
 ## Screenshots of TUBE2GO
 
-![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_1.jpg?raw=true)
+![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/youtube_search.png?raw=true)
 
-![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_2.jpg?raw=true)
+![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/download_videos.png?raw=true)
 
-![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_3.jpg?raw=true)
+![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/batch_list.png?raw=true)
 
-![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_4.jpg?raw=true)
+![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/monitor_usage.png?raw=true)
 
-![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_5.jpg?raw=true)
+![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/settings.png?raw=true)
 
 
 **KEYWORDS:**  
