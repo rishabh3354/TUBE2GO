@@ -123,24 +123,24 @@
 	</categories>
 	<screenshots>
 		<screenshot type="default">
-			<caption>TUBE2GO: YouTube home page</caption>
-			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_1.jpg</image>
+			<caption>TUBE2GO: YouTube search page</caption>
+			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/youtube_search.png</image>
 		</screenshot>
 		<screenshot>
 			<caption>TUBE2GO: Video download page</caption>
-			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_2.jpg</image>
+			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/download_videos.png</image>
+		</screenshot>
+		<screenshot>
+			<caption>TUBE2GO: Batch downloading page</caption>
+			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/batch_list.png</image>
 		</screenshot>
 		<screenshot>
 			<caption>TUBE2GO: System monitor page</caption>
-			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_3.jpg</image>
-		</screenshot>
-		<screenshot>
-			<caption>TUBE2GO: About me page</caption>
-			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_4.jpg</image>
+			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/monitor_usage.png</image>
 		</screenshot>
 		<screenshot>
 			<caption>TUBE2GO: App settings page</caption>
-			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/tube2go-warlordsoftwares_5.jpg</image>
+			<image type="source">https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/settings.png</image>
 		</screenshot>
 	</screenshots>
 	<url type="homepage">https://warlordsoftwares.com/trending-apps/y2mate-pro-best-youtube-video-downloader-linux/</url>
