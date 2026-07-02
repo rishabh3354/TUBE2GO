@@ -33,6 +33,8 @@ and run
 
 **FLATPAK PACKAGE**
 
+<b>FLATHUB USERS:</b> Tube2go is merged with media downlaoder (https://flathub.org/en/apps/com.warlordsoftwares.media-downloader) for flatpak user
+
 <a href="https://flathub.org/apps/details/com.warlordsoftwares.tube2go"><img src="https://flathub.org/assets/badges/flathub-badge-en.png"  height="56" width="186" alt="Get it from the Flathub Store" ></a>
 
 Install with command-line
@@ -42,6 +44,8 @@ Install with command-line
 and run
 
 `flatpak run com.warlordsoftwares.tube2go`
+
+
 
 ## Screenshots of TUBE2GO
 
