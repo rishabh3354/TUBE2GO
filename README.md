@@ -43,12 +43,6 @@ TUBE2GO is the ultimate **YouTube downloader** for downloading videos, playlists
 ![TUBE2GO](https://raw.githubusercontent.com/rishabh3354/TUBE2GO/main/share/screenshots/settings.png?raw=true)
 
 
-**KEYWORDS:**  
-*SnapDownloader, YTD Video Downloader, By Click Downloader, Allavsoft, VideoHunter, YouTube to MP3, YouTube DL, SnapTube, VideoSolo, iTubeGo, SaveFrom, Y2Mate, ClipGrab, LinkedIn Video Downloader, Reddit Video Downloader, SoundCloud Downloader, Yahoo Video Downloader, BitDownloader, Wikimedia Video Downloader, ESPN Video Downloader, Y2Mate Playlist, YouTube Shorts Downloader.*
-
-
-**HASHTAGS**  
-#YouTubeDownloader #4KVideoDownloader #YouTubeToMP3 #SnapDownloader #DownloadYouTubeVideos #MP3Converter #FacebookVideoDownloader #InstagramVideoDownloader #TikTokDownloader #PlaylistDownloader #NoAdsVideoStreaming #BatchDownloadVideos #YouTubePlaylistDownloader #YouTubeToMP3Converter #RumbleDownloader #DownloadOnlineVideos #VideoDownloaderApp #FreeVideoDownloader
-
-
-
+<sub><sup>keywords:
+SnapDownloader, YTD Video Downloader, By Click Downloader, Allavsoft, VideoHunter, YouTube to MP3, YouTube DL, SnapTube, VideoSolo, iTubeGo, SaveFrom, Y2Mate, ClipGrab, LinkedIn Video Downloader, Reddit Video Downloader, SoundCloud Downloader, Yahoo Video Downloader, BitDownloader, Wikimedia Video Downloader, ESPN Video Downloader, Y2Mate Playlist, YouTube Shorts Downloader YouTubeDownloader #4KVideoDownloader #YouTubeToMP3 #SnapDownloader #DownloadYouTubeVideos #MP3Converter #FacebookVideoDownloader #InstagramVideoDownloader #TikTokDownloader #PlaylistDownloader #NoAdsVideoStreaming #BatchDownloadVideos #YouTubePlaylistDownloader #YouTubeToMP3Converter #RumbleDownloader #DownloadOnlineVideos #VideoDownloaderApp #FreeVideoDownloader
+<sub><sup>
