@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/Ads-none-success?style=flat-square" alt="No ads and no trackers">
 </p>
 
-> ⭐ **Installed 100,000+ times on Flathub.** If TUBE2GO replaced a browser full of pop-up download sites for you, [star the repo](https://github.com/rishabh3354/TUBE2GO/stargazers) — it is how most people find it.
+> **Installed 100,000+ times on Flathub.**
 
 ---
 
@@ -184,13 +184,7 @@ TUBE2GO is for saving content you have the right to save — your own uploads, C
 
 ## 🧩 More apps by Warlord Softwares
 
-| App | What it does |
-|---|---|
-| **[4KTUBE](https://github.com/rishabh3354/4KTUBE)** | YouTube downloader tuned for 4K / 8K and playlists |
-| **[DL-YouTube](https://github.com/rishabh3354/YOUTUBE-DL-PRO)** | Download video and audio from 1400+ websites |
-| **[FormatLab](https://github.com/rishabh3354/FORMAT_LAB)** | Convert and compress video and audio between 40+ formats |
-| **[4KWALL](https://github.com/rishabh3354/4KWALL)** | Wallpaper manager with auto-rotation and multi-monitor support |
-| **[JPEG2PDF](https://github.com/rishabh3354/JPG2PDF)** | Convert images into high-quality PDF files (MIT licensed) |
+Other apps by Warlord Softwares are listed on [warlordsoftwares.com](https://warlordsoftwares.com/).
 
 ---
 
@@ -207,9 +201,3 @@ TUBE2GO is for saving content you have the right to save — your own uploads, C
 ## 📄 License
 
 TUBE2GO is proprietary software. © 2024–2026 Rishabh Bhardwaj / Warlord Softwares. See [LICENSE](LICENSE).
-
----
-
-<p align="center">
-  <strong>Found this useful? ⭐ Star the repo — it genuinely helps other people find it.</strong>
-</p>
