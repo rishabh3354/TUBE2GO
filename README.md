@@ -9,7 +9,7 @@ TUBE2GO is a desktop YouTube downloader for Linux and Windows. It saves videos, 
 <p align="center">
   <a href="https://flathub.org/apps/details/com.warlordsoftwares.tube2go"><img src="https://img.shields.io/flathub/downloads/com.warlordsoftwares.tube2go?style=for-the-badge&label=Flathub%20installs&color=4A90D9" alt="Flathub installs"></a>
   <a href="https://snapcraft.io/tube2go"><img src="https://img.shields.io/snapcraft/v/tube2go/latest/stable?style=for-the-badge&label=Snap&color=E95420" alt="Snap Store version"></a>
-  <a href="https://gitlab.com/WarlordSoftwares/tube2go/-/releases"><img src="https://img.shields.io/gitlab/v/tag/WarlordSoftwares%2Ftube2go?style=for-the-badge&label=Release&color=2ea44f" alt="Latest release"></a>
+  <a href="https://github.com/rishabh3354/TUBE2GO/releases/latest"><img src="https://img.shields.io/github/v/release/rishabh3354/TUBE2GO?style=for-the-badge&label=Release&color=2ea44f" alt="Latest release"></a>
 </p>
 
 <p align="center">
@@ -38,8 +38,8 @@ TUBE2GO is a desktop YouTube downloader for Linux and Windows. It saves videos, 
 <p align="center">
   <a href="https://snapcraft.io/tube2go"><img src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" height="56" alt="Install TUBE2GO from the Snap Store"></a>&nbsp;
   <a href="https://flathub.org/apps/details/com.warlordsoftwares.tube2go"><img src="https://flathub.org/assets/badges/flathub-badge-en.png" height="56" width="186" alt="Install TUBE2GO from Flathub"></a>&nbsp;
-  <a href="https://gitlab.com/WarlordSoftwares/tube2go/-/releases"><img src="https://raw.githubusercontent.com/srevinsaju/get-appimage/master/static/badges/get-appimage-branding-blue.png" height="56" alt="Download the TUBE2GO AppImage for Linux"></a>&nbsp;
-  <a href="https://gitlab.com/WarlordSoftwares/tube2go/-/releases"><img src="https://user-images.githubusercontent.com/66430340/187172806-a8edd12a-ef58-4a05-96a3-99d7490b42f6.png" height="56" alt="Download TUBE2GO for Windows 10 and Windows 11"></a>
+  <a href="https://github.com/rishabh3354/TUBE2GO/releases/latest"><img src="https://raw.githubusercontent.com/srevinsaju/get-appimage/master/static/badges/get-appimage-branding-blue.png" height="56" alt="Download the TUBE2GO AppImage for Linux"></a>&nbsp;
+  <a href="https://github.com/rishabh3354/TUBE2GO/releases/latest"><img src="https://user-images.githubusercontent.com/66430340/187172806-a8edd12a-ef58-4a05-96a3-99d7490b42f6.png" height="56" alt="Download TUBE2GO for Windows 10 and Windows 11"></a>
 </p>
 
 ### Linux: Snap
@@ -56,7 +56,7 @@ flatpak install flathub com.warlordsoftwares.tube2go
 
 ### Linux: AppImage (any distribution)
 
-Download the latest `.AppImage` from the [releases page](https://gitlab.com/WarlordSoftwares/tube2go/-/releases), then:
+Download the latest `.AppImage` from the [releases page](https://github.com/rishabh3354/TUBE2GO/releases/latest), then:
 
 ```bash
 chmod +x tube2go-x86_64.AppImage
@@ -65,7 +65,7 @@ chmod +x tube2go-x86_64.AppImage
 
 ### Windows
 
-Download the Windows installer from the [releases page](https://gitlab.com/WarlordSoftwares/tube2go/-/releases) and run it. It needs 64-bit Windows 10 or 11.
+Download the Windows installer from the [releases page](https://github.com/rishabh3354/TUBE2GO/releases/latest) and run it. It needs 64-bit Windows 10 or 11.
 
 ## Features
 
@@ -116,8 +116,8 @@ Three Warlord Softwares apps download video, and each one aims at something diff
 | If you want... | Use |
 |---|---|
 | A simple one-click downloader with resource monitoring | **TUBE2GO** (this app) |
-| The highest resolution (4K and 8K) and full playlist support | **[4KTUBE](https://gitlab.com/WarlordSoftwares/4ktube)** |
-| The widest site coverage, 1400+ sites beyond YouTube | **[DL-YouTube](https://gitlab.com/WarlordSoftwares/youtube-dl-pro)** |
+| The highest resolution (4K and 8K) and full playlist support | **[4KTUBE](https://github.com/rishabh3354/4KTUBE-MEDIA-DOWNLOADER)** |
+| The widest site coverage, 1400+ sites beyond YouTube | **[DL-YouTube](https://github.com/rishabh3354/YOUTUBE-DL-PRO)** |
 
 ## System requirements
 
@@ -171,7 +171,7 @@ Other apps by Warlord Softwares are listed on [warlordsoftwares.com](https://war
 - Flathub: [com.warlordsoftwares.tube2go](https://flathub.org/apps/details/com.warlordsoftwares.tube2go)
 - Snap Store: [snapcraft.io/tube2go](https://snapcraft.io/tube2go)
 - Website: [warlordsoftwares.com](https://warlordsoftwares.com/)
-- Issues: [gitlab.com/WarlordSoftwares/tube2go/-/issues](https://gitlab.com/WarlordSoftwares/tube2go/-/issues)
+- Issues: [github.com/rishabh3354/TUBE2GO/issues](https://github.com/rishabh3354/TUBE2GO/issues)
 
 ## License
 
