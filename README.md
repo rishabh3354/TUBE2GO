@@ -1,6 +1,6 @@
-# TUBE2GO — One-Click YouTube Downloader for Linux and Windows
+# TUBE2GO: one-click YouTube downloader for Linux and Windows
 
-**TUBE2GO is a straightforward desktop YouTube downloader for Linux and Windows.** Save videos, playlists and music in HD or as MP3 with a single click — plus subtitles, dubbed audio tracks, batch queues and a **built-in system monitor** that shows live network speed, CPU and memory while a long download runs. Available in 35+ languages.
+TUBE2GO is a desktop YouTube downloader for Linux and Windows. It saves videos, playlists and music in HD or as MP3 in one click, with subtitles, dubbed audio tracks and batch queues. A built-in system monitor shows live network speed, CPU and memory while a long download runs. The interface comes in 35+ languages.
 
 <p align="center">
   <img src="share/screenshots/download_videos.png" alt="TUBE2GO one-click YouTube downloader for Linux and Windows — download videos, playlists and MP3" width="100%">
@@ -19,25 +19,21 @@
   <img src="https://img.shields.io/badge/Ads-none-success?style=flat-square" alt="No ads and no trackers">
 </p>
 
-> **Installed 100,000+ times on Flathub.**
-
----
+> Installed 100,000+ times on Flathub.
 
 ## Contents
 
-- [Download and install](#-download-and-install)
-- [Features](#-features)
-- [What you can download](#-what-you-can-download)
-- [Screenshots](#-screenshots)
-- [Which downloader should I use?](#-which-downloader-should-i-use)
-- [System requirements](#-system-requirements)
-- [FAQ](#-faq)
-- [Responsible use](#-responsible-use)
-- [More apps](#-more-apps-by-warlord-softwares)
+- [Download and install](#download-and-install)
+- [Features](#features)
+- [What you can download](#what-you-can-download)
+- [Screenshots](#screenshots)
+- [Which downloader should I use?](#which-downloader-should-i-use)
+- [System requirements](#system-requirements)
+- [FAQ](#faq)
+- [Responsible use](#responsible-use)
+- [More apps](#more-apps-by-warlord-softwares)
 
----
-
-## 📥 Download and install
+## Download and install
 
 <p align="center">
   <a href="https://snapcraft.io/tube2go"><img src="https://snapcraft.io/static/images/badges/en/snap-store-black.svg" height="56" alt="Install TUBE2GO from the Snap Store"></a>&nbsp;
@@ -46,19 +42,19 @@
   <a href="https://gitlab.com/WarlordSoftwares/tube2go/-/releases"><img src="https://user-images.githubusercontent.com/66430340/187172806-a8edd12a-ef58-4a05-96a3-99d7490b42f6.png" height="56" alt="Download TUBE2GO for Windows 10 and Windows 11"></a>
 </p>
 
-### Linux — Snap
+### Linux: Snap
 
 ```bash
 sudo snap install tube2go
 ```
 
-### Linux — Flatpak
+### Linux: Flatpak
 
 ```bash
 flatpak install flathub com.warlordsoftwares.tube2go
 ```
 
-### Linux — AppImage (any distribution)
+### Linux: AppImage (any distribution)
 
 Download the latest `.AppImage` from the [releases page](https://gitlab.com/WarlordSoftwares/tube2go/-/releases), then:
 
@@ -69,43 +65,37 @@ chmod +x tube2go-x86_64.AppImage
 
 ### Windows
 
-Download the Windows installer from the [releases page](https://gitlab.com/WarlordSoftwares/tube2go/-/releases) and run it. Windows 10 and 11 (64-bit).
+Download the Windows installer from the [releases page](https://gitlab.com/WarlordSoftwares/tube2go/-/releases) and run it. It needs 64-bit Windows 10 or 11.
 
----
+## Features
 
-## 🌟 Features
+- Paste a link, pick MP4, WEBM or MKV, and download.
+- Queue a whole YouTube playlist at once.
+- Save YouTube audio as high-bitrate MP3 for offline listening.
+- The built-in system monitor shows RAM usage, CPU load and temperature, and network speed, so you can see what a long queue is costing your machine.
+- Queue many videos and let them download one after another.
+- Pick the dubbed audio track you want instead of the default one.
+- Save subtitle and closed-caption tracks next to the video.
+- Search YouTube inside the app and queue videos, with results for your region.
+- Preview a video in the app, without ads, before you save it.
+- Download from Facebook, Instagram, TikTok, X (Twitter), Rumble and more.
+- The interface is translated into 35+ languages.
+- No ads, no trackers, no bundled installers.
 
-- **One-click downloads** — paste a link, pick a format, done. MP4, WEBM or MKV.
-- **Whole playlists** — queue an entire YouTube playlist in a single action.
-- **YouTube to MP3** — extract high-bitrate audio for offline listening.
-- **Built-in system monitor** — live RAM usage, CPU load and temperature, and current network speed, so you can see what a long queue is costing your machine.
-- **Batch downloading** — queue many videos and let them run back to back.
-- **Multi-language audio tracks** — choose the dubbed track instead of the default.
-- **Subtitles and closed captions** — save CC tracks alongside the video.
-- **In-app YouTube search** — find and queue videos with region-specific results.
-- **Ad-free streaming** — preview a video in the app before saving it.
-- **Other platforms** — Facebook, Instagram, TikTok, X (Twitter), Rumble and more.
-- **35+ interface languages.**
-- **No ads, no trackers, no bundled installers.**
-
----
-
-## 🎯 What you can download
+## What you can download
 
 | Task | Result |
 |---|---|
-| **Download a YouTube video** | MP4 or WEBM at your chosen quality |
-| **Download a YouTube playlist** | Every video queued automatically |
-| **Convert YouTube to MP3** | Audio-only extraction at high bitrate |
-| **Download YouTube music** | Audio tracks saved for offline listening |
-| **Download with subtitles** | Closed captions saved with the video |
-| **Download a dubbed audio track** | Pick from the alternate language tracks |
-| **Batch download many links** | Paste a list and let the queue run |
-| **Watch resource usage** | Live RAM, CPU and network speed while downloading |
+| Download a YouTube video | MP4 or WEBM at your chosen quality |
+| Download a YouTube playlist | Every video queued automatically |
+| Convert YouTube to MP3 | Audio only, at high bitrate |
+| Download YouTube music | Audio tracks saved for offline listening |
+| Download with subtitles | Closed captions saved with the video |
+| Download a dubbed audio track | Pick from the other language tracks |
+| Batch download many links | Paste a list and let the queue run |
+| Watch resource usage | Live RAM, CPU and network speed while downloading |
 
----
-
-## 📸 Screenshots
+## Screenshots
 
 | Video download | In-app YouTube search |
 |---|---|
@@ -115,40 +105,34 @@ Download the Windows installer from the [releases page](https://gitlab.com/Warlo
 |---|---|
 | ![TUBE2GO batch download queue with several videos](share/screenshots/batch_list.png) | ![TUBE2GO application settings and download preferences](share/screenshots/settings.png) |
 
-**Built-in system monitor** — RAM usage, live internet speed, CPU load and temperature while your queue runs:
+The built-in system monitor shows RAM usage, internet speed, CPU load and temperature while your queue runs:
 
 ![TUBE2GO system monitor showing RAM usage, internet speed and CPU usage with temperature](share/screenshots/monitor_usage.png)
 
----
+## Which downloader should I use?
 
-## 🤔 Which downloader should I use?
-
-Three of these apps download video, and they are aimed at different things:
+Three Warlord Softwares apps download video, and each one aims at something different:
 
 | If you want... | Use |
 |---|---|
-| A simple one-click downloader, plus resource monitoring | **TUBE2GO** (this app) |
-| Maximum resolution — 4K and 8K — and playlist depth | **[4KTUBE](https://gitlab.com/WarlordSoftwares/4ktube)** |
+| A simple one-click downloader with resource monitoring | **TUBE2GO** (this app) |
+| The highest resolution (4K and 8K) and full playlist support | **[4KTUBE](https://gitlab.com/WarlordSoftwares/4ktube)** |
 | The widest site coverage, 1400+ sites beyond YouTube | **[DL-YouTube](https://gitlab.com/WarlordSoftwares/youtube-dl-pro)** |
 
----
-
-## 💻 System requirements
+## System requirements
 
 | | Minimum |
 |---|---|
-| **Linux** | Ubuntu 20.04+, Debian 11+, Fedora 36+, Arch, or any distro running Flatpak / Snap / AppImage |
-| **Windows** | Windows 10 or Windows 11, 64-bit |
-| **Architecture** | x86_64 |
-| **RAM** | 4 GB |
+| Linux | Ubuntu 20.04+, Debian 11+, Fedora 36+, Arch, or any distro running Flatpak / Snap / AppImage |
+| Windows | Windows 10 or Windows 11, 64-bit |
+| Architecture | x86_64 |
+| RAM | 4 GB |
 
----
-
-## ❓ FAQ
+## FAQ
 
 ### Is TUBE2GO free?
 
-TUBE2GO is free to download and use. A one-time Pro upgrade removes limits and unlocks the full feature set — there is no subscription.
+TUBE2GO is free to download and use. A one-time Pro upgrade removes the limits and unlocks every feature. There is no subscription.
 
 ### Does TUBE2GO work on Linux?
 
@@ -164,40 +148,31 @@ Yes. Paste a playlist URL and every video in it is queued for download.
 
 ### What is the system monitor for?
 
-A long download queue can saturate your connection and heat up the machine. The System Monitor tab shows live RAM usage, CPU load and temperature, and current network speed, so you can see what the queue is costing you without leaving the app.
+A long download queue can fill your connection and heat up the machine. The System Monitor tab shows RAM usage, CPU load and temperature, and network speed, so you can see what the queue is costing you without leaving the app.
 
 ### Does it download subtitles?
 
-Yes — closed captions and subtitle tracks can be saved alongside the video.
+Yes. It can save closed captions and subtitle tracks next to the video.
 
 ### Is TUBE2GO open source?
 
-No. TUBE2GO is a proprietary desktop application. This repository hosts the releases, packaging metadata and issue tracker rather than the application source.
+No. TUBE2GO is a proprietary desktop application. This repository holds the releases, packaging metadata and issue tracker. The application source is not here.
 
----
+## Responsible use
 
-## 🛡️ Responsible use
+Use TUBE2GO to save content you have the right to save: your own uploads, Creative Commons material, public-domain video, and content you have permission to keep offline. Please respect copyright and the terms of service of the sites you download from.
 
-TUBE2GO is for saving content you have the right to save — your own uploads, Creative Commons material, public-domain video, and content you have permission to keep offline. Please respect copyright and the terms of service of the sites you download from.
-
----
-
-## 🧩 More apps by Warlord Softwares
+## More apps by Warlord Softwares
 
 Other apps by Warlord Softwares are listed on [warlordsoftwares.com](https://warlordsoftwares.com/).
 
----
+## Links
 
-## 🔗 Links
+- Flathub: [com.warlordsoftwares.tube2go](https://flathub.org/apps/details/com.warlordsoftwares.tube2go)
+- Snap Store: [snapcraft.io/tube2go](https://snapcraft.io/tube2go)
+- Website: [warlordsoftwares.com](https://warlordsoftwares.com/)
+- Issues: [gitlab.com/WarlordSoftwares/tube2go/-/issues](https://gitlab.com/WarlordSoftwares/tube2go/-/issues)
 
-- 📦 **Flathub:** [com.warlordsoftwares.tube2go](https://flathub.org/apps/details/com.warlordsoftwares.tube2go)
-- 📦 **Snap Store:** [snapcraft.io/tube2go](https://snapcraft.io/tube2go)
-- 🌐 **Website:** [warlordsoftwares.com](https://warlordsoftwares.com/)
-- 🐞 **Issues:** [gitlab.com/WarlordSoftwares/tube2go/-/issues](https://gitlab.com/WarlordSoftwares/tube2go/-/issues)
-
----
-
-## 📄 License
+## License
 
 TUBE2GO is proprietary software. © 2024–2026 Rishabh Bhardwaj / Warlord Softwares. See [LICENSE](LICENSE).
-
